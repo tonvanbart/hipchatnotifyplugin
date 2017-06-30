@@ -3,7 +3,7 @@
 This project is a small Maven plugin which can send notifications from a Maven build
 to a HipChat room.
 
-#### Installation and setup
+### Installation and setup
 
 Install the plugin in your local repo:
 
@@ -25,7 +25,7 @@ The other two fields to configure are the message you want to send, and a label
 that will be added to the sender's name. The sender's name will be the name you chose
 for your integration in the previous step.
 
-#### Usage
+### Usage
 
 The plugin has the following parameters, which can all be set in the `<configuration>` section
 of the plugin, or in the Maven commandline:
@@ -62,6 +62,6 @@ The result will look like this:
 
 Note that you can include emoticons, and Maven variables are expanded.
 
-#### License
+### License
 
 This project is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
