@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/tonvanbart/hipchatnotifyplugin.svg?branch=master)](https://travis-ci.com/tonvanbart/hipchatnotifyplugin)
+
 ### Maven HipChat notification plugin
 
 This project is a small Maven plugin which can send notifications from a Maven build
